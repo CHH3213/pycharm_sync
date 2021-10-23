@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="logger" />
       <item value="denomitator" />
       <item value="Given two lines defined by numpy.array pairs (a0,a1,b0,b1) Return the closest points on each segment and their distance" />
     </histories>
