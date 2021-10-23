@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="489" />
     <option name="newTranslationDialogY" value="465" />
     <histories>
+      <item value="channels" />
       <item value="hjk" />
       <item value="logger" />
       <item value="denomitator" />
@@ -12,6 +13,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
+        <entry key="ENGLISH" value="1" />
       </map>
     </option>
   </component>
