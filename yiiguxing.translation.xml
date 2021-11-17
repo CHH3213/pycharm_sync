@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Diffeomorphism technique" />
       <item value="the map serves as mapping the function on each list element" />
       <item value="overlap" />
       <item value="denom" />
@@ -10,13 +11,13 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="6" />
-        <entry key="ENGLISH" value="7" />
+        <entry key="CHINESE" value="8" />
+        <entry key="ENGLISH" value="9" />
         <entry key="GREEK" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1635855930433" />
+    <option name="lastTrimTime" value="1637151050773" />
   </component>
 </application>
