@@ -6,8 +6,10 @@
       <mapping ext="material" type="DTD" />
       <mapping ext="sdf" type="DTD" />
       <mapping ext="config" type="DTD" />
+      <removed_mapping ext="txt" type="PLAIN_TEXT" />
       <mapping ext="world" type="XML" />
       <mapping ext="launch" type="XML" />
+      <mapping ext="txt" type="requirements-pro.txt" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
     </extensionMap>
   </component>
